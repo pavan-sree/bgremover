@@ -1,9 +1,9 @@
 streamlit
-rembg==2.0.65
+rembg
 Pillow
 numpy
 opencv-python-headless
 onnxruntime
-pymatting==1.1.8
-numba==0.56.4
-llvmlite==0.39.1
+pymatting
+numba
+llvmlite
