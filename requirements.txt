@@ -7,3 +7,4 @@ onnxruntime
 pymatting
 numba
 llvmlite
+zipfile36
